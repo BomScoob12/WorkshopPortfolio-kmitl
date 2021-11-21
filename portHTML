@@ -1,0 +1,210 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <title>แฟ้มสะสมผลงานของ นายสรวิชญ์ เครือคำ</title>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+      body{
+        /*         แก้สี */
+        background:#D50000;
+        font-family:sans-serif;
+        font-family: 'Kanit', sans-serif;
+      }
+      a{
+        color:#D50000;
+        text-decoration: none;
+      }
+      .social{
+        font-size:2em;
+      }
+      .main{
+        background:#fff;
+        padding:1em 1em;
+        border-radius:1em;
+        width:100%;
+        max-width:900px;
+        margin:2rem auto;
+      }
+      h1,h2,h3,h4,h5,h6,p{
+        margin:0;
+      }
+      /*       แก้สีอักษร */
+      .cl-1{
+        color:#B71C1C;
+        font-weight:bold;
+        font-size:3em;
+      }
+      .cl-2{
+        color:#FF5252;
+        font-weight:bold;
+        font-size:2em;
+      }
+      .card-parent{
+        width:100%;
+        display:flex;
+        flex-flow:row wrap;
+        justify-content:center;
+      }
+      .card-item{
+        --bg:url('https://media.discordapp.net/attachments/907606638767255553/909015241684308008/photo-1633113212423-dc2828784c7e.jpeg');
+        width:calc(50% - 1em);
+        height:120px;
+        padding:1em;
+        border-radius:0.5rem;
+        font-weight:700;
+        color:white;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        box-sizing:border-box;
+        margin:.5em;
+        background-size:cover;
+        background-position:center;
+        text-shadow:0px 2px 1px #0008;
+        /* แก้สีข้างล่าง */
+        background-image:linear-gradient(to bottom,#64B5F699,#FFCCBC66),var(--bg);
+      }
+      .img{
+        width:100%;
+        border-radius:.5em;
+      }
+      h1{
+        font-size:2rem;
+      }
+      h2{
+        font-size:1.8rem;
+      }
+      h3{
+        font-size:1.4rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="main">
+      <center>
+        <h3 class="cl-2">
+          แฟ้มสะสมผลงาน
+        </h3>
+        <h1 class="cl-1">
+          นายสรวิชญ์ เครือคำ
+        </h1>
+        <p>
+          
+        <p>
+          sorawitkraukham@gmail.com
+        </p>  
+        <br>
+        <p>
+          โรงเรียนสตรีศรีน่าน จังหวัดน่าน
+        </p>
+        <br>
+        <p class="social">
+          <a href="_____" class="">
+            <i class="fab fa-instagram">
+            </i>
+          </a>
+          <a href="_____" class="">
+            <i class="fab fa-twitter">
+            </i>
+          </a>
+          <a href="_____" class="">
+            <i class="fab fa-facebook">
+            </i>
+          </a>
+          <a href="mailto:jabont@hotmail.com" class="">
+            <i class="fab fa-email">
+            </i>
+          </a>
+          <a href="_____" class="">
+            <i class="fab fa-linkedin">
+            </i>
+          </a>
+          <a href="_____" class="">
+            <i class="fab fa-line">
+            </i>
+          </a>
+        </p>
+        <br>
+        <h3 class="cl-2">
+          ความสนใจ 
+        </h3>
+        <br>
+        <div class="card-parent">
+          <div class="card-item" style="--bg:url('https://media.discordapp.net/attachments/907606638767255553/909015241684308008/photo-1633113212423-dc2828784c7e.jpeg');">
+            <h3>
+              คอมพิวเตอร์
+            </h3>
+          </div>
+          <div class="card-item" style="--bg:url('https://www.ktc.co.th/pub/media/Article/Clean-food.jpg')">
+            <h3>
+              การทำอาหาร
+            </h3>
+          </div>
+          <div class="card-item" style="--bg:url('https://www.bltbangkok.com/wp-content/uploads/2020/04/%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C_Body-696x464.jpg');">
+            <h3>
+              เล่นเกม
+            </h3>
+          </div>
+          <div class="card-item" style="--bg:url('https://www.isranews.org/images/2019/thaireform/7/Coding2607.jpg');">
+            <h3>
+              Coding
+            </h3>
+          </div>
+           <div class="card-item" style="--bg:url('https://miro.medium.com/max/1400/1*s79gWIC7d0T--aFfG7iFlg.jpeg');">
+            <h3>
+              เล่นดนตรี
+            </h3>
+          </div>
+        </div>
+        <br>
+        <h3 class="cl-2">
+          <i class="fas fa-heart"></i>
+          ผลงานที่อยากจะนำเสนอ 
+          <i class="fas fa-heart"></i>
+        </h3>
+        <ul style="text-align:left">
+          <li>ได้เข้าร่วมแข่งขันการสร้างสะพานจากเส้นสปาเก็ตตี้
+          </li>
+          <li>ได้ทำโมเดลโรบอทคนสวนด้วยTinkercad
+          </li>
+          <li>ฝึกทำโค้ดในเว็บBorntoDev
+          </li>
+          <li>เป็นตัวแทนคณะดุริยางค์บรรเลงเพลงให้กับครูเกษียณ
+          </li>
+          <li>ร่วมเป็นผู้จัดกิจกรรมยุวกาชาดชั้นม.2
+          </li>
+        </ul>
+        <img data-aos="fade-right" data-aos-duration="2000" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/254638385_312633847084289_2589794694608038573_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeGtJuJ35FkXRCU9_6_YHiufxORT42NIHpnE5FPjY0gemadZdXQUIMyCBXm97LaiiBWr4V1SA-QU1cJv18Bu9bkf&_nc_ohc=ZYz4EdniVGEAX90rjnO&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=6962582b1742d2f065aadcb69f21e0cd&oe=61B33B0A" class="img" >
+        <br><br>
+         <img data-aos="fade-left" data-aos-duration="2000" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/254081157_1073442526735148_4812773094320012604_n.png?_nc_cat=104&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeEv3awfHORQMbZ0uo-ztV-jbkzMIWJr1ItuTMwhYmvUiy4J4fmepgHaANmA_o__p_3N0tKeukdBCng5KHcrbKK3&_nc_ohc=5ivX-kmbGVsAX_uYi6G&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=64aa69adb9eeabebcc9a11dc453ad681&oe=61B49E11" class="img" >
+        <br><br>
+         <img data-aos="fade-right" data-aos-duration="2000" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/253482015_426871905673130_3921279194553337587_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeE_-uP_4QvzImb456uGRc-oB0w9Z4GabHIHTD1ngZpsctb7I8SbxFvgdpjzW3vEJOT85joVlK5xdUdAcUcTgyWs&_nc_ohc=6GcsDi8uidQAX8Fc4Do&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=df6ec7b742f38a600013009fa967d719&oe=61B601FB" class="img" >
+        <br><br>
+         <img data-aos="fade-left" data-aos-duration="2000" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/p1080x2048/253731127_1770772846452168_7103960071247816829_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeGI84l3YnrIRKkD2mmoUJuTq6fRKGGdfLWrp9EoYZ18tdo7iP_Jj4Ear7u2l7SWOR_j2Mk8WbLVe8cN3UDZKLUD&_nc_ohc=jbi07ehfxawAX_o8rZJ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=da096044c913779591b24363f5a27f93&oe=61B61633" class="img" >
+        <br><br>
+         <img data-aos="fade-right" data-aos-duration="2000" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/p1080x2048/252394894_1323287078116589_5768827425337751818_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeGPRbrxC9_xAO8I2hOzspjYOb2Zrh1I_OI5vZmuHUj84nT7Zz6FyMR5wZP2pWpqWNoQmY__hg4HrFOgHh0oYxaE&_nc_ohc=XKH5P1ml7eMAX9Mspvc&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=e2628c5327519d089c91ac96b601a684&oe=61B482AB" class="img" >
+        <br><br><br>
+         <h4 class="cl-2">
+          <i class="fas fa-heart"></i>
+          Cartificate
+          <i class="fas fa-heart"></i>
+        </h4>
+        <br>
+
+        <img data-aos="fade-up-right" data-aos-duration="3000" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/248039578_1303674743414294_6879588342769049714_n.png?_nc_cat=109&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeF79LBjv6wyt25GOJciHoeHHH9LKlXakg0cf0sqVdqSDRzGyeozuxqUEI9xA-1IvPeGQ8OgfRIbyJcnr5wG-vxB&_nc_ohc=MnfR3FQOblIAX9DuwBb&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=e04effb26dfe527ed9ae1a0f24b79791&oe=61B6F735" class="img" >
+      <br><br>
+      	<img data-aos="fade-up-left" data-aos-duration="3000" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/254718073_272328004844994_420738692504532800_n.png?_nc_cat=109&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeG4lBh8NeZrYXvKP3aI2w2Lk6OZ8EMOP3iTo5nwQw4_eJLnnIvujppLSLsMHOiM7LzEmYEvQ3bw2D26pbSENvU1&_nc_ohc=kvgrVOk8vYMAX_t-xcN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=9dd977d707bc12f07cf5fedcc0373b8e&oe=61B3E3A0" class="img" >
+      <br><br>
+      <img data-aos="fade-up-right" data-aos-duration="3000" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/253290738_293088956032158_3008382568412615145_n.png?_nc_cat=109&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeGbmtwk55cbOsaQkI7-Vv_84MBW28XPeJLgwFbbxc94khQsUJ0zlqECXOs1TZG9gQMi4nD_KFUmGk27AWPFeauI&_nc_ohc=Kk28JSMEpbsAX8jaxpw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=7d67ecbcf20202157c13bec18025f1e5&oe=61B6C252" class="img" >
+      <br><br>
+      	<img data-aos="fade-up-left" data-aos-duration="3000" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/248372566_422005856148750_8705377474300353407_n.png?_nc_cat=105&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeFmcSWur1j09wVpWP4Z908SSqwY9hKkfxlKrBj2EqR_GX1etBvI4D4ZWk3lhGfRpD2qDRnbmY3vTt_NpkirwyQo&_nc_ohc=rN2AxSI9e6MAX8xrTHB&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=c238f9a06fe6907636d249d408c8abeb&oe=61B4CCE5" class="img" >
+       <br><br>
+      
+      
+      </center>
+    </div>
+      <script>AOS.init();</script>
+  </body>
+</html>
